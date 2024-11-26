@@ -13,7 +13,7 @@ sidebar_position: 2
 
 ### Provider
 
-- **Email:** `provider@gmail.com`
+- **Email:** `johnsmith@gmail.com`
 - **Password:** `123456`
 - **Login URL:** [https://jisr.appstick.com.bd/login](https://jisr.appstick.com.bd/login)
 
@@ -21,6 +21,6 @@ sidebar_position: 2
 
 ### Patient
 
-- **Email:** `patient@gmail.com`
+- **Email:** `tuhin@gmail.com`
 - **Password:** `123456`
 - **Login URL:** [https://jisr.appstick.com.bd/login](https://jisr.appstick.com.bd/login)
